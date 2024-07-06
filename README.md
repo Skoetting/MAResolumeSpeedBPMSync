@@ -54,5 +54,6 @@ LUA "StopResolumeSpeedSync = true"
 ```
 
 I just created a executor button with 2 empty cues and setting the above commands as cmd for the cues.
+![Screenshot 2024-07-06 at 17 06 38](https://github.com/Skoetting/MAResolumeSpeedBPMSync/assets/36789353/dabe2bf1-7002-47f9-97e9-b9d9c028c4b3)
 
 

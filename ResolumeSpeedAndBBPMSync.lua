@@ -7,8 +7,8 @@ local speedFader = 'SpecialMaster 3.2' -- if changed, reload plugin engine to ge
 local resolumeBPM = '925' -- Change this to the appropriate fixture number
 local resolumeSpeedMaster = '921' -- Change this to the appropriate fixture number
 
-local speedexecpage = '18'
 local speedexec = '115' -- Change this to the executor where the speed of the resolume fixtures should be stored. This executor will be created by the plugin
+local speedexecpage = '18' -- Specify the page for the executor
 local worldid = '42' -- Change this to set the world id, used to filter the output of the executor
 
 local resolumeBPMFrom = 20 -- Range set in Resolume DMX Shortcut

@@ -21,7 +21,7 @@ from this repository into the plugin directory (e.g., on a USB-Drive: grandMA3/g
 ### 2) Prepare fixtures and Resolume
 Follow the [Resolume Guide](https://resolume.com/support/en/dmx-shortcuts) to set up DMX Input and DMX shortcuts in Resolume.
 
-In MA2, add fixtures to your patch and map it according to the Resolume guide above:
+In MA, add fixtures to your patch and map it according to the Resolume guide above:
 |Name|FixtureType|Resolume Function|Note|
 | -------- | ------- | -------- | ------- |
 |resolumeSpeedMaster|Generic Dimmer|Composition Speed ("S" Slider in header)||

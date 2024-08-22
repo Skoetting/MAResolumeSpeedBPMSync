@@ -50,7 +50,7 @@ local executiondelay = 0.5 -- interval to check for changed Fader Value in secon
 only MA2: Enable "Execute on Load", press Save, exit the Plugin and call the plugin from the pool.
 
 ### 4) Create trigger
-I like to have the possibility to enable/disable the sync; therefore, therefor the plugin is not starting automatically.
+I like to have the possibility to enable/disable the sync. therefore, the plugin is not starting automatically.
 To start the plugin, execute the command:
 ```
 LUA "startResolumeSpeedSync()"
